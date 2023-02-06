@@ -1,0 +1,6 @@
+.navbar-brand {
+    color: crimson;
+}
+.navbar-brand:hover{
+    color: #48ff00;
+}
